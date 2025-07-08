@@ -1,16 +1,17 @@
-## Hi there 👋
+¡Hola! Soy Fer Canales
 
-<!--
-**fer89can/fer89can** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy abogada especializada en transparencia y protección de datos personales, actualmente estudiando análisis de datos para ampliar mis habilidades y explorar nuevas oportunidades profesionales.  
 
-Here are some ideas to get you started:
+🎯 **Intereses actuales**:
+- Python para análisis de datos
+- Pandas y visualización de datos
+- Automatización de tareas
+- Ética digital y privacidad
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Estudiante del curso de análisis de datos en EBAC (2024-2025)
+
+🌐 Puedes contactarme por [LinkedIn](www.linkedin.com/in/fernanda-canales-analista-datos)
+
+---
+
+💡 *“Aprender es reinventarse con cada línea de código”*
