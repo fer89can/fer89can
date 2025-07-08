@@ -10,7 +10,7 @@ Soy abogada especializada en transparencia y protección de datos personales, ac
 
 📚 Estudiante del curso de análisis de datos en EBAC (2024-2025)
 
-🌐 Puedes contactarme por [LinkedIn](www.linkedin.com/in/fernanda-canales-analista-datos)
+🌐 Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/fernanda-canales-analista-datos)
 
 ---
 
